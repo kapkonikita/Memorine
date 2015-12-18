@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Меморин</string>
+    <string name="hello_world">Привет бро!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="button_regenerate">Обновить</string>
+
+</resources>
